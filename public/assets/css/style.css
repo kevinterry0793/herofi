@@ -28162,7 +28162,7 @@ body {
     width: 210px;
     height: 48px;
     margin-top: 6px;
-    right: 10px;
+    right: 72px;
     float: right;
     border: 2px solid #4f434f !important;
     background: #121212;
@@ -28989,8 +28989,12 @@ body {
         margin-top: 36px;
     }
     #BtnConnectWallet {
+        right: 70px;
+    }
+    #BtnConnectWallet {
         display: none;
     }
+   
     .section-title {
         font-size: 32px;
         text-transform: none;
