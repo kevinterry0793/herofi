@@ -103,7 +103,7 @@
     -webkit-backface-visibility: hidden;
 }
 .vertical-timeline--animate .vertical-timeline-element-icon.is-hidden {
-    visibility: hidden;
+    /* visibility: hidden; */
 }
 .vertical-timeline--animate .vertical-timeline-element-icon.bounce-in {
     visibility: visible;
@@ -299,7 +299,7 @@
     }
 }
 .vertical-timeline--animate .vertical-timeline-element-content.is-hidden {
-    visibility: hidden;
+    /* visibility: hidden; */
 }
 .vertical-timeline--animate .vertical-timeline-element-content.bounce-in {
     visibility: visible;
